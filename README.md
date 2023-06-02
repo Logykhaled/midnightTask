@@ -1,4 +1,4 @@
-# midnightTask
+# MidnightTask
 
 This is a front-end web development task, The project is built using HTML and CSS, Bootstarp 
 
