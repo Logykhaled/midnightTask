@@ -4,7 +4,7 @@ This is a front-end web development task, The project is built using HTML and CS
 
 # Getting Started
 
-To get started with this project, you can simply clone the repository and open the index.html file in your web browser. Alternatively, you can view the live version of the website here https://sage-bombolone-c067d6.netlify.app/
+To get started with this project, you can simply clone the repository and open the index.html file in your web browser. Alternatively, you can view the live version of the website here https://midnight-task1.netlify.app/
 
 # Prerequisites
 
